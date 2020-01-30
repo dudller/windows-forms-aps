@@ -1,0 +1,11 @@
+C:\Users\tarlr\Desktop\poskProjekty\rs232\rs232\rs232\bin\Debug\rs232.exe.config
+C:\Users\tarlr\Desktop\poskProjekty\rs232\rs232\rs232\bin\Debug\rs232.exe
+C:\Users\tarlr\Desktop\poskProjekty\rs232\rs232\rs232\bin\Debug\rs232.pdb
+C:\Users\tarlr\Desktop\poskProjekty\rs232\rs232\rs232\obj\Debug\rs232.csprojAssemblyReference.cache
+C:\Users\tarlr\Desktop\poskProjekty\rs232\rs232\rs232\obj\Debug\rs232.Form1.resources
+C:\Users\tarlr\Desktop\poskProjekty\rs232\rs232\rs232\obj\Debug\rs232.Properties.Resources.resources
+C:\Users\tarlr\Desktop\poskProjekty\rs232\rs232\rs232\obj\Debug\rs232.csproj.GenerateResource.cache
+C:\Users\tarlr\Desktop\poskProjekty\rs232\rs232\rs232\obj\Debug\rs232.csproj.CoreCompileInputs.cache
+C:\Users\tarlr\Desktop\poskProjekty\rs232\rs232\rs232\obj\Debug\rs232.exe
+C:\Users\tarlr\Desktop\poskProjekty\rs232\rs232\rs232\obj\Debug\rs232.pdb
+C:\Users\tarlr\Desktop\poskProjekty\rs232\rs232\rs232\obj\Debug\rs232.Form2.resources
